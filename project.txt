@@ -1,0 +1,26 @@
+pipes used for transmission of lpg:
+Both PVC and polyethylene (PE) pipes can be used for pipes
+ that are buried in the ground outside a building. 
+You'll also find ductile iron pipes, 
+yellow brass pipes and aluminum pipes that 
+can be used in different situations.
+ Approved flexible connectors are used for 
+connecting gas lines to appliances.
+
+pipe natural gas vs. lpg:
+Piped Natural Gas is methane. 
+It is much lighter when compared to LPG.
+ PNG is also flammable. Since it is also lighter
+ than air and has a high dispersion rate than LPG,
+ it is not as hazardous as LPG in case of a leakage.
+
+past and future of project:
+Previous methods of detecting leaks relied heavily
+ on human intervention and calculating pressure drops
+ to determine if and where a pipeline may be leaking.
+ While these methods offer valuable detection techniques,
+ pipeline operators today are moving toward digitized 
+processes that involve wireless electronic systems as
+ well as more complete integrity management systems to
+ provide a higher level of pipeline safety and leak prevention.
+
